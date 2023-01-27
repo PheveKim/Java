@@ -15,7 +15,6 @@ public class Test01 {
 		//Lsit<String> names = new LinkedList<>();
 		List<String> names = new Vector<>();
 		
-		
 		//원소 추가
 		names.add("안중근");
 		names.add("이봉창");
